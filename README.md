@@ -10,7 +10,7 @@
 * [Упражнения в Swift песочнице](https://github.com/LiyaNova/CodePracticeSwift) 
 
 #### 👩🏻‍🎓 Сертификаты:
-IOS/Swift. https://drive.google.com/file/d/1WXSt_nwfdiv_OgzUyN8J9xowrv0yqjhl/view?usp=sharing
+IOS/Swift. https://github.com/LiyaNova/LiyaNova/blob/main/IOScertificate.pdf
 
 
 ****
@@ -18,7 +18,8 @@ IOS/Swift. https://drive.google.com/file/d/1WXSt_nwfdiv_OgzUyN8J9xowrv0yqjhl/vie
 
 ### Hi there 👋
 
-My name is **Yuliya Filimonova**, but you can call me **Liya** 😊! I'm a junior IOS developer, interested in web development and UI design.  
+My name is **Yuliya Filimonova**, but you can call me **Liya** 😊!  
+I'm a junior IOS developer, interested in web development and UI design.    
 Here you may find my practice and projects in Swift, HTML, CSS...
 
 
