@@ -28,7 +28,7 @@ Here you may find my practice and projects in Swift, HTML, CSS...
 * [Exercises in playground](https://github.com/LiyaNova/CodePracticeSwift) 
 
 ***
-#### 📫 Контакты/Contact Information
+### 📫 Контакты/Contact Information
 
 Email: yuliya_nova@icloud.com   
 Telegram: @yu_liya_nova
