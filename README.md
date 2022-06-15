@@ -27,7 +27,11 @@ Here you may find my practice and projects in Swift, HTML, CSS...
 * [Practice MVP architecture ](https://github.com/LiyaNova/GetNetComment) 
 * [Exercises in playground](https://github.com/LiyaNova/CodePracticeSwift) 
 
+***
+#### 📫 Контакты/Contact Information
 
+Email: yuliya_nova@icloud.com   
+Telegram: @yu_liya_nova
 
 
 
