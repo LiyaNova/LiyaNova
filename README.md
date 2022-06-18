@@ -2,7 +2,7 @@
 ### Привет 👋
 Меня зовут **Юлия Филимонова**, но вы можете называть меня **Лия** 😊!   
 Я начинающий IOS-разработчик, также интересуюсь  веб-разработкой и UI-дизайном.  
-Здесь вы можете найти мои проекты на Swift, HTML, CSS...
+Здесь вы можете найти мои проекты.
 
 #### Проекты на Swift: 
 * [Разработка интерфейса соцсети](https://github.com/LiyaNova/UIandNavigation) 
@@ -20,7 +20,7 @@ IOS/Swift. https://github.com/LiyaNova/LiyaNova/blob/main/IOScertificate.pdf
 
 My name is **Yuliya Filimonova**, but you can call me **Liya** 😊!  
 I'm a junior IOS developer, interested in web development and UI design.    
-Here you may find my practice and projects in Swift, HTML, CSS...
+Here you may find my practice and projects.
 
 
 #### SwiftProjects: 
