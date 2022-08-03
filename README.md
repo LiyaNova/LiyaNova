@@ -5,6 +5,7 @@
 Здесь вы можете найти мои проекты.
 
 #### Проекты на Swift: 
+* [AliasGame (командный проект)](https://github.com/LiyaNova/AliasGame)
 * [Разработка интерфейса соцсети](https://github.com/LiyaNova/UIandNavigation) 
 * [MyPocketXylophone App](https://github.com/LiyaNova/MyPocketXylophone)
 * [GuessFlags Game App](https://github.com/LiyaNova/GuessFlagsGame)
@@ -26,6 +27,7 @@ Here you may find my practice and projects.
 
 
 #### SwiftProjects: 
+* [AliasGame (team project)](https://github.com/LiyaNova/AliasGame)
 * [Interface of a social media](https://github.com/LiyaNova/UIandNavigation) 
 * [MyPocketXylophone App](https://github.com/LiyaNova/MyPocketXylophone)
 * [GuessFlags Game App](https://github.com/LiyaNova/GuessFlagsGame)
