@@ -8,7 +8,6 @@
 * [AliasGame (командный проект)](https://github.com/LiyaNova/AliasGame)
 * [Разработка интерфейса соцсети](https://github.com/LiyaNova/UIandNavigation) 
 * [MyPocketXylophone App](https://github.com/LiyaNova/MyPocketXylophone)
-* [GuessFlags Game App](https://github.com/LiyaNova/GuessFlagsGame)
 * [Упражнения в Swift песочнице](https://github.com/LiyaNova/CodePracticeSwift) 
 
 #### 👩🏻‍🎓 Сертификаты:
@@ -29,7 +28,6 @@ Here you may find my practice and projects.
 * [AliasGame (team project)](https://github.com/LiyaNova/AliasGame)
 * [Interface of a social media](https://github.com/LiyaNova/UIandNavigation) 
 * [MyPocketXylophone App](https://github.com/LiyaNova/MyPocketXylophone)
-* [GuessFlags Game App](https://github.com/LiyaNova/GuessFlagsGame)
 * [Exercises in playground](https://github.com/LiyaNova/CodePracticeSwift) 
 
 ***
