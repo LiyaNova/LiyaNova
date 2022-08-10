@@ -9,7 +9,6 @@
 * [Разработка интерфейса соцсети](https://github.com/LiyaNova/UIandNavigation) 
 * [MyPocketXylophone App](https://github.com/LiyaNova/MyPocketXylophone)
 * [GuessFlags Game App](https://github.com/LiyaNova/GuessFlagsGame)
-* [Практикую MVP архитектуру](https://github.com/LiyaNova/GetNetComment) 
 * [Упражнения в Swift песочнице](https://github.com/LiyaNova/CodePracticeSwift) 
 
 #### 👩🏻‍🎓 Сертификаты:
@@ -31,7 +30,6 @@ Here you may find my practice and projects.
 * [Interface of a social media](https://github.com/LiyaNova/UIandNavigation) 
 * [MyPocketXylophone App](https://github.com/LiyaNova/MyPocketXylophone)
 * [GuessFlags Game App](https://github.com/LiyaNova/GuessFlagsGame)
-* [Practice MVP architecture ](https://github.com/LiyaNova/GetNetComment) 
 * [Exercises in playground](https://github.com/LiyaNova/CodePracticeSwift) 
 
 ***
