@@ -7,8 +7,6 @@
 #### Проекты на Swift: 
 * [AliasGame (командный проект)](https://github.com/LiyaNova/AliasGame)
 * [Разработка интерфейса соцсети](https://github.com/LiyaNova/UIandNavigation) 
-* [MyPocketXylophone App](https://github.com/LiyaNova/MyPocketXylophone)
-* [Упражнения в Swift песочнице](https://github.com/LiyaNova/CodePracticeSwift) 
 
 #### 👩🏻‍🎓 Сертификаты:
 IOS/Swift. https://github.com/LiyaNova/LiyaNova/blob/main/IOScertificate.pdf
@@ -27,8 +25,6 @@ Here you may find my practice and projects.
 #### SwiftProjects: 
 * [AliasGame (team project)](https://github.com/LiyaNova/AliasGame)
 * [Interface of a social media](https://github.com/LiyaNova/UIandNavigation) 
-* [MyPocketXylophone App](https://github.com/LiyaNova/MyPocketXylophone)
-* [Exercises in playground](https://github.com/LiyaNova/CodePracticeSwift) 
 
 ***
 ### 📫 Контакты/Contact Information
